@@ -1,0 +1,22 @@
+## 🎯 Objective
+- To design and simulate a Software Defined Radio (SDR) system for satellite (VSAT) communication  
+- To implement digital modulation techniques such as BPSK and QPSK for efficient data transmission  
+- To analyze the impact of channel noise (AWGN) on signal quality  
+- To evaluate system performance using Bit Error Rate (BER)  
+- To enhance signal quality using AI-based noise filtering techniques  
+## 📌 Summary
+
+This project presents the design and simulation of an AI-enhanced Software Defined Radio (SDR) system for VSAT communication using Python. The system begins by generating random binary data, which is then modulated using digital modulation techniques such as BPSK and QPSK.
+
+The modulated signal is transmitted through a simulated communication channel where Additive White Gaussian Noise (AWGN) is introduced to replicate real-world disturbances. At the receiver side, the signal is demodulated to recover the original data.
+
+The system performance is evaluated using Bit Error Rate (BER), which measures the accuracy of data transmission. To further improve performance, an AI-based filtering technique is applied to reduce noise and enhance signal quality.
+
+The project also includes graphical visualization such as BER vs SNR plots and QPSK constellation diagrams to analyze system behavior.
+
+## 🚀 Key Features
+- BPSK & QPSK Modulation  
+- AWGN Channel Simulation  
+- BER vs SNR Analysis  
+- AI-based Noise Filtering  
+- Signal & Constellation Visualization  
