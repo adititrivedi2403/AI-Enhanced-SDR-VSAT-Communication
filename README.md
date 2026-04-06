@@ -35,9 +35,6 @@ Machine learning model is used to reduce noise and improve signal quality.
 - Improved signal quality after filtering
 - Reduced BER using AI model
 
-## 📸 Visualization
-![Signal Graph](Images/graph.png)
-
 ## 🚀 Features
 - BPSK Modulation
 - AWGN Channel Simulation
